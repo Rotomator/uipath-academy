@@ -1,0 +1,27 @@
+{
+  "name": "0 Main",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.4.6863.30657]",
+    "UiPath.Mail.Activities": "[1.2.6863.29868]",
+    "UiPath.System.Activities": "[18.3.6877.28276]",
+    "UiPath.UIAutomation.Activities": "[18.3.6877.28298]",
+    "UiPath.PDF.Activities": "[1.2.6863.34697]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "17.1",
+  "projectVersion": "1.0.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}
